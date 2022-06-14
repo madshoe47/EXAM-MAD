@@ -1,0 +1,35 @@
+.profileImageEdit {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.names {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.firstName {
+  width: 50%;
+}
+
+.lastName {
+  width: 50%;
+}
+
+.phone {
+  width: 100%;
+}
+
+.postal-city {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.postal {
+  width: 50%;
+}
+
+.city {
+  width: 50%;
+}
